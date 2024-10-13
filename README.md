@@ -5,6 +5,7 @@ Passo a Passo para Rodar o Projeto do Jogo "Show do Milhão"
 1. Instalação do Java e NetBeans:
 
 1.1. Primeiro, você precisa ter o Java Development Kit (JDK) instalado na sua máquina. Baixe a versão mais recente no site oficial da Oracle.
+
 1.2. Em seguida, instale o NetBeans 8.2, que será a IDE utilizada para o desenvolvimento.
 
 2. Configuração do MySQL:
