@@ -8,10 +8,12 @@ Passo a Passo para Rodar o Projeto do Jogo "Show do Milhão"
 1.2. Em seguida, instale o NetBeans 8.2, que será a IDE utilizada para o desenvolvimento.
 
 2. Configuração do MySQL:
+   
 2.1. Instale o MySQL Server e, se desejar, o MySQL Workbench para gerenciar o banco de dados.
+
 2.2. Abra o MySQL Workbench e conecte-se ao seu servidor MySQL.
 
-3. Importar o Banco de Dados:
+4. Importar o Banco de Dados:
 
 3.1. No MySQL Workbench, vá em File > Open SQL Script.
 3.2. Selecione o arquivo quizShowDoMilhao.sql, que está no projeto, e abra o script SQL no editor.
