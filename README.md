@@ -1,7 +1,8 @@
 # Show-do-Milhao
 Desenvolvi um jogo baseado no "Show do Milhão" utilizando Java Swing e MySQL.
 
-Como fiz:
+Como foi feito:
+
 Ambiente de Desenvolvimento: Utilizei o NetBeans 8.2 para facilitar o desenvolvimento da aplicação, aproveitando suas ferramentas para criar a interface gráfica e gerenciar o código.
 
 Interface Gráfica: Criei uma interface interativa com componentes Swing, como JFrame, JLabel, JRadioButton e JButton. A estrutura foi planejada para simular a experiência do programa, exibindo perguntas e opções de resposta de maneira clara e atraente.
